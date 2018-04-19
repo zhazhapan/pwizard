@@ -1,1 +1,1 @@
-# pwizard
+# pywizard
