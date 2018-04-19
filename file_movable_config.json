@@ -1,0 +1,7 @@
+{
+    "sourceDir": "/Users/pantao/Downloads",
+    "destinationDir": "/Volumes/vspider",
+    "newFolderFormat": "%Y%m%d",
+    "fileFilter": "mp4",
+    "enableFormat": true
+}
